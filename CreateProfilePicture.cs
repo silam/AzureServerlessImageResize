@@ -11,5 +11,4 @@ public static void Run(Stream outputBlob, string myQueueItem, ILogger log)
 
     }
 
-    outputBlob.WriteAsync(imageData, 0, imageData.Length);
 }

@@ -38,3 +38,13 @@ private static Dictionary<ImageSize, (int, int)> imageDimensionsTable = new Dict
     { ImageSize.Medium, (200,200)}
 
 };
+
+
+public enum ImageSize {ExtraSmall, Small, Medium}
+
+private static Dictionary<ImageSize, (int, int)> imageDimensionsTable = new Dictionary<ImageSize, (int, int)>()
+{
+    { ImageSize.Small, (100,100)},
+    { ImageSize.Medium, (200,200)}
+
+};

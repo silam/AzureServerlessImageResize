@@ -6,6 +6,14 @@ using Azure Serverless functions
 
 Latest updates:
 
+# Register free trial with twilio account:
+AcountID: AC3f0b26e7e2268a382db3b882f68cea5Number
+Auth Token: 2b21df8e0bff898c592b3204847182cNumber
+
+First Twilio phone number
+(623) 552-5002 
+and send SMS message to my phone number
+
 # Add Attachment to email
 # Save logs file into Blob using IBinder
 # save logs file into Blob using TextWriter
